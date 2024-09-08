@@ -1,0 +1,7 @@
+black
+boto3
+click
+credstash
+flake8
+isort
+requests
